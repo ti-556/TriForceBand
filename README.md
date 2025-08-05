@@ -19,6 +19,6 @@ A 4 × 4 triaxial force map is linearly projected and flattened into 16 tokens. 
 
 ![model](figures/modeldiagram.png)
 
-## Paper
+## Installation
 
-Coming soon...
+Coming Soon...
